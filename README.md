@@ -119,6 +119,6 @@ You can also reset manually by deleting the state file and spool directory yours
 
 ## References
 
-- [Cobalt Strike UDC2 docs](https://hstechdocs.helpsystems.com/manuals/cobaltstrike/current/userguide/content/topics/malleable-c2_user-defined-c2.htm)
-- [icmp-udc2](https://github.com/Cobalt-Strike/icmp-udc2/) - UDC2 over ICMP
-- [slack-udc2](https://github.com/WKL-Sec/slack-udc2) - UDC2 over Slack
+- [Cobalt Strike UDC2 docs](https://hstechdocs.helpsystems.com/manuals/cobaltstrike/current/userguide/content/topics/listener-infrastructure_user-defined-c2.htm)
+- [Cobalt Strike ICMP UDC2](https://github.com/Cobalt-Strike/icmp-udc2/)
+- [WKL Slack UDC2](https://github.com/WKL-Sec/slack-udc2)
