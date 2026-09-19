@@ -1,0 +1,8 @@
+{
+    "tenant_id": "AZURE-AD-TENANT-ID",
+    "client_id": "APP-CLIENT-ID",
+    "client_secret": "APP-CLIENT-SECRET",
+    "drive_id": "DRIVE-ID",
+    "inbox_folder_id": "INBOX-FOLDER-ID",
+    "outbox_folder_id": "OUTBOX-FOLDER-ID"
+}
